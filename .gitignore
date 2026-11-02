@@ -1,0 +1,11 @@
+build/
+DerivedData/
+__pycache__/
+*.pyc
+*.sqlite*
+*.db
+*.pem
+*.key
+*.xcuserstate
+xcuserdata/
+.env

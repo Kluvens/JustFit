@@ -1,0 +1,181 @@
+{
+  "source": "https://github.com/bryllim/workout-guide",
+  "revision": "aac599224bb9780305239607ef98540b7e0ce389",
+  "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "display_change": "Runtime tint only; source PNG files unchanged.",
+  "artworks": [
+    {
+      "slug": "bench-press",
+      "upstream_png": "https://github.com/bryllim/workout-guide/blob/aac599224bb9780305239607ef98540b7e0ce389/packages/workout-guide/assets/bench-press/frame-1.png",
+      "sha256": "d15ef9b2bb07e8fe91f90f53e9fde947d016f11aca05ab681be55df734681c05",
+      "attribution": {
+        "creator": "Bryl Lim",
+        "creatorUrl": "https://bryllim.com",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source": {
+          "name": "Everkinetic",
+          "url": "https://github.com/everkinetic/data/blob/main/dist/svg/0042-tension.svg",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "changes": "Rasterized on a transparent 512 × 512 canvas, recolored for monochrome display, and vector-traced."
+        }
+      }
+    },
+    {
+      "slug": "dumbbell-bench-press",
+      "upstream_png": "https://github.com/bryllim/workout-guide/blob/aac599224bb9780305239607ef98540b7e0ce389/packages/workout-guide/assets/dumbbell-bench-press/frame-1.png",
+      "sha256": "04d864267fc78d6c65ed09a9691345b55e995154e462113fa982d9dc31f2e575",
+      "attribution": {
+        "creator": "Bryl Lim",
+        "creatorUrl": "https://bryllim.com",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source": {
+          "name": "Everkinetic",
+          "url": "https://github.com/everkinetic/data/blob/main/dist/svg/0055-tension.svg",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "changes": "Rasterized on a transparent 512 × 512 canvas, recolored for monochrome display, and vector-traced."
+        }
+      }
+    },
+    {
+      "slug": "machine-chest-press",
+      "upstream_png": "https://github.com/bryllim/workout-guide/blob/aac599224bb9780305239607ef98540b7e0ce389/packages/workout-guide/assets/machine-chest-press/frame-1.png",
+      "sha256": "1aa9dd7a108503da021580d828dbd49f99f322042c634ed4df7fd150bc1f7298",
+      "attribution": {
+        "creator": "Bryl Lim",
+        "creatorUrl": "https://bryllim.com",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source": {
+          "name": "Everkinetic",
+          "url": "https://github.com/everkinetic/data/blob/main/dist/svg/0066-tension.svg",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "changes": "Rasterized on a transparent 512 × 512 canvas, recolored for monochrome display, and vector-traced."
+        }
+      }
+    },
+    {
+      "slug": "cable-fly",
+      "upstream_png": "https://github.com/bryllim/workout-guide/blob/aac599224bb9780305239607ef98540b7e0ce389/packages/workout-guide/assets/cable-fly/frame-1.png",
+      "sha256": "392057a941187ec0832d8fb0e8d4dbd628a571852eff4d6cc15d4e859d6e7d47",
+      "attribution": {
+        "creator": "Bryl Lim",
+        "creatorUrl": "https://bryllim.com",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source": {
+          "name": "Everkinetic",
+          "url": "https://github.com/everkinetic/data/blob/main/dist/svg/0048-tension.svg",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "changes": "Rasterized on a transparent 512 × 512 canvas, recolored for monochrome display, and vector-traced."
+        }
+      }
+    },
+    {
+      "slug": "lat-pulldown",
+      "upstream_png": "https://github.com/bryllim/workout-guide/blob/aac599224bb9780305239607ef98540b7e0ce389/packages/workout-guide/assets/lat-pulldown/frame-1.png",
+      "sha256": "0b6f56011e9095cb1c8b1b4ae24b65b12ccc9debb25543c07b0b128eeb709935",
+      "attribution": {
+        "creator": "Bryl Lim",
+        "creatorUrl": "https://bryllim.com",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source": {
+          "name": "Everkinetic",
+          "url": "https://github.com/everkinetic/data/blob/main/dist/svg/0093-tension.svg",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "changes": "Rasterized on a transparent 512 × 512 canvas, recolored for monochrome display, and vector-traced."
+        }
+      }
+    },
+    {
+      "slug": "seated-row",
+      "upstream_png": "https://github.com/bryllim/workout-guide/blob/aac599224bb9780305239607ef98540b7e0ce389/packages/workout-guide/assets/seated-row/frame-1.png",
+      "sha256": "54204837ba7f4a22830585bf2549c6698e9eb7d980d21ece5698f50968b92ea1",
+      "attribution": {
+        "creator": "Bryl Lim",
+        "creatorUrl": "https://bryllim.com",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source": {
+          "name": "Everkinetic",
+          "url": "https://github.com/everkinetic/data/blob/main/dist/svg/0025-tension.svg",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "changes": "Rasterized on a transparent 512 × 512 canvas, recolored for monochrome display, and vector-traced."
+        }
+      }
+    },
+    {
+      "slug": "pull-up",
+      "upstream_png": "https://github.com/bryllim/workout-guide/blob/aac599224bb9780305239607ef98540b7e0ce389/packages/workout-guide/assets/pull-up/frame-1.png",
+      "sha256": "241facc15d927a5c20818ba312a396f345a81d2546a21fb217e30396090f8917",
+      "attribution": {
+        "creator": "Bryl Lim",
+        "creatorUrl": "https://bryllim.com",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source": {
+          "name": "Everkinetic",
+          "url": "https://github.com/everkinetic/data/blob/main/dist/svg/0087-tension.svg",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "changes": "Rasterized on a transparent 512 × 512 canvas, recolored for monochrome display, and vector-traced."
+        }
+      }
+    },
+    {
+      "slug": "squat",
+      "upstream_png": "https://github.com/bryllim/workout-guide/blob/aac599224bb9780305239607ef98540b7e0ce389/packages/workout-guide/assets/squat/frame-1.png",
+      "sha256": "3a5a4b9f763ca14f55dcca65dcde87acf88d6e5e538367fd8aa9c2a5a02e191c",
+      "attribution": {
+        "creator": "Bryl Lim",
+        "creatorUrl": "https://bryllim.com",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source": {
+          "name": "Everkinetic",
+          "url": "https://github.com/everkinetic/data/blob/main/dist/svg/0122-tension.svg",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "changes": "Rasterized on a transparent 512 × 512 canvas, recolored for monochrome display, and vector-traced."
+        }
+      }
+    },
+    {
+      "slug": "leg-press",
+      "upstream_png": "https://github.com/bryllim/workout-guide/blob/aac599224bb9780305239607ef98540b7e0ce389/packages/workout-guide/assets/leg-press/frame-1.png",
+      "sha256": "650a3a35d5e4a79ebec3ddb8d900d4fc324504dbed875170abfb4e1d76ea505f",
+      "attribution": {
+        "creator": "Bryl Lim",
+        "creatorUrl": "https://bryllim.com",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "source": {
+          "name": "Everkinetic",
+          "url": "https://github.com/everkinetic/data/blob/main/dist/svg/0127-tension.svg",
+          "license": "CC BY-SA 4.0",
+          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "changes": "Rasterized on a transparent 512 × 512 canvas, recolored for monochrome display, and vector-traced."
+        }
+      }
+    },
+    {
+      "slug": "bodyweight-squat",
+      "upstream_png": "https://github.com/bryllim/workout-guide/blob/aac599224bb9780305239607ef98540b7e0ce389/packages/workout-guide/assets/bodyweight-squat/frame-1.png",
+      "sha256": "c6cf1ef850fb33e846845ce3038d1e75ba5cefd75341137d4baf7124810907f0",
+      "attribution": {
+        "creator": "Bryl Lim",
+        "creatorUrl": "https://bryllim.com",
+        "license": "CC BY-SA 4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
+      }
+    }
+  ]
+}

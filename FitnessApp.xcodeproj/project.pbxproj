@@ -1,0 +1,47 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {};
+	objectVersion = 56;
+	objects = {
+		A00000000000000000000001 = {isa = PBXBuildFile; fileRef = A00000000000000000000002; };
+		A00000000000000000000012 = {isa = PBXBuildFile; fileRef = A00000000000000000000013; };
+		A00000000000000000000013 = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecureSync.swift; sourceTree = "<group>"; };
+		A00000000000000000000014 = {isa = PBXBuildFile; fileRef = A00000000000000000000015; };
+		A00000000000000000000015 = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PairScanner.swift; sourceTree = "<group>"; };
+		A00000000000000000000016 = {isa = PBXBuildFile; fileRef = A00000000000000000000017; };
+		A00000000000000000000017 = {isa = PBXFileReference; lastKnownFileType = folder; path = ExerciseArt; sourceTree = "<group>"; };
+		A00000000000000000000018 = {isa = PBXBuildFile; fileRef = A00000000000000000000019; };
+		A00000000000000000000019 = {isa = PBXFileReference; lastKnownFileType = text.json; path = EXERCISE_ART_ATTRIBUTION.json; sourceTree = "<group>"; };
+		B00000000000000000000001 = {isa = PBXBuildFile; fileRef = B00000000000000000000002; };
+		B00000000000000000000002 = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FitnessUITests.swift; sourceTree = "<group>"; };
+		B00000000000000000000003 = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; path = FitnessUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		B00000000000000000000004 = {isa = PBXGroup; children = (B00000000000000000000002); path = FitnessUITests; sourceTree = "<group>"; };
+		B00000000000000000000005 = {isa = PBXSourcesBuildPhase; buildActionMask = 2147483647; files = (B00000000000000000000001); runOnlyForDeploymentPostprocessing = 0; };
+		B00000000000000000000006 = {isa = PBXFrameworksBuildPhase; buildActionMask = 2147483647; files = (); runOnlyForDeploymentPostprocessing = 0; };
+		B00000000000000000000007 = {isa = PBXResourcesBuildPhase; buildActionMask = 2147483647; files = (); runOnlyForDeploymentPostprocessing = 0; };
+		B00000000000000000000008 = {isa = PBXNativeTarget; buildConfigurationList = B00000000000000000000009; buildPhases = (B00000000000000000000005, B00000000000000000000006, B00000000000000000000007); buildRules = (); dependencies = (B0000000000000000000000D); name = FitnessUITests; productName = FitnessUITests; productReference = B00000000000000000000003; productType = "com.apple.product-type.bundle.ui-testing"; };
+		B00000000000000000000009 = {isa = XCConfigurationList; buildConfigurations = (B0000000000000000000000A, B0000000000000000000000B); defaultConfigurationIsVisible = 0; defaultConfigurationName = Debug; };
+		B0000000000000000000000A = {isa = XCBuildConfiguration; buildSettings = {GENERATE_INFOPLIST_FILE = YES; INFOPLIST_FILE = FitnessUITests/Info.plist; PRODUCT_BUNDLE_IDENTIFIER = local.justinyang.fitness.uitests; PRODUCT_NAME = "$(TARGET_NAME)"; SWIFT_VERSION = 5.0; TEST_TARGET_NAME = FitnessApp; }; name = Debug; };
+		B0000000000000000000000B = {isa = XCBuildConfiguration; buildSettings = {GENERATE_INFOPLIST_FILE = YES; INFOPLIST_FILE = FitnessUITests/Info.plist; PRODUCT_BUNDLE_IDENTIFIER = local.justinyang.fitness.uitests; PRODUCT_NAME = "$(TARGET_NAME)"; SWIFT_VERSION = 5.0; TEST_TARGET_NAME = FitnessApp; }; name = Release; };
+		B0000000000000000000000C = {isa = PBXContainerItemProxy; containerPortal = A0000000000000000000000B; proxyType = 1; remoteGlobalIDString = A0000000000000000000000A; remoteInfo = FitnessApp; };
+		B0000000000000000000000D = {isa = PBXTargetDependency; target = A0000000000000000000000A; targetProxy = B0000000000000000000000C; };
+		A00000000000000000000002 = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FitnessApp.swift; sourceTree = "<group>"; };
+		A00000000000000000000003 = {isa = PBXFileReference; explicitFileType = wrapper.application; path = FitnessApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A00000000000000000000004 = {isa = PBXGroup; children = (A00000000000000000000005, B00000000000000000000004, A00000000000000000000019, A00000000000000000000006); sourceTree = "<group>"; };
+		A00000000000000000000005 = {isa = PBXGroup; children = (A00000000000000000000002, A00000000000000000000013, A00000000000000000000015, A00000000000000000000017); path = FitnessApp; sourceTree = "<group>"; };
+		A00000000000000000000006 = {isa = PBXGroup; children = (A00000000000000000000003, B00000000000000000000003); name = Products; sourceTree = "<group>"; };
+		A00000000000000000000007 = {isa = PBXSourcesBuildPhase; buildActionMask = 2147483647; files = (A00000000000000000000001, A00000000000000000000012, A00000000000000000000014); runOnlyForDeploymentPostprocessing = 0; };
+		A00000000000000000000008 = {isa = PBXFrameworksBuildPhase; buildActionMask = 2147483647; files = (); runOnlyForDeploymentPostprocessing = 0; };
+		A00000000000000000000009 = {isa = PBXResourcesBuildPhase; buildActionMask = 2147483647; files = (A00000000000000000000016, A00000000000000000000018); runOnlyForDeploymentPostprocessing = 0; };
+		A0000000000000000000000A = {isa = PBXNativeTarget; buildConfigurationList = A0000000000000000000000F; buildPhases = (A00000000000000000000007, A00000000000000000000008, A00000000000000000000009); buildRules = (); dependencies = (); name = FitnessApp; productName = FitnessApp; productReference = A00000000000000000000003; productType = "com.apple.product-type.application"; };
+		A0000000000000000000000B = {isa = PBXProject; attributes = {BuildIndependentTargetsInParallel = YES; LastUpgradeCheck = 1600; TargetAttributes = { A0000000000000000000000A = {CreatedOnToolsVersion = 16.1; }; B00000000000000000000008 = {CreatedOnToolsVersion = 16.1; TestTargetID = A0000000000000000000000A; }; }; }; buildConfigurationList = A0000000000000000000000E; compatibilityVersion = "Xcode 14.0"; developmentRegion = zh-Hans; hasScannedForEncodings = 0; knownRegions = (zh-Hans, en, Base); mainGroup = A00000000000000000000004; productRefGroup = A00000000000000000000006; projectDirPath = ""; projectRoot = ""; targets = (A0000000000000000000000A, B00000000000000000000008); };
+		A0000000000000000000000C = {isa = XCBuildConfiguration; buildSettings = {SDKROOT = iphoneos; IPHONEOS_DEPLOYMENT_TARGET = 17.0; SWIFT_VERSION = 5.0; }; name = Debug; };
+		A0000000000000000000000D = {isa = XCBuildConfiguration; buildSettings = {SDKROOT = iphoneos; IPHONEOS_DEPLOYMENT_TARGET = 17.0; SWIFT_VERSION = 5.0; }; name = Release; };
+		A0000000000000000000000E = {isa = XCConfigurationList; buildConfigurations = (A0000000000000000000000C, A0000000000000000000000D); defaultConfigurationIsVisible = 0; defaultConfigurationName = Release; };
+		A0000000000000000000000F = {isa = XCConfigurationList; buildConfigurations = (A00000000000000000000010, A00000000000000000000011); defaultConfigurationIsVisible = 0; defaultConfigurationName = Release; };
+		A00000000000000000000010 = {isa = XCBuildConfiguration; buildSettings = {CODE_SIGN_STYLE = Automatic; CURRENT_PROJECT_VERSION = 1; MARKETING_VERSION = 0.1; GENERATE_INFOPLIST_FILE = YES; INFOPLIST_FILE = FitnessApp/Info.plist; INFOPLIST_KEY_UILaunchScreen_Generation = YES; INFOPLIST_KEY_CFBundleDisplayName = JustFit; PRODUCT_BUNDLE_IDENTIFIER = local.justinyang.fitness; PRODUCT_NAME = "$(TARGET_NAME)"; TARGETED_DEVICE_FAMILY = 1; SWIFT_VERSION = 5.0; }; name = Debug; };
+		A00000000000000000000011 = {isa = XCBuildConfiguration; buildSettings = {CODE_SIGN_STYLE = Automatic; CURRENT_PROJECT_VERSION = 1; MARKETING_VERSION = 0.1; GENERATE_INFOPLIST_FILE = YES; INFOPLIST_FILE = FitnessApp/Info.plist; INFOPLIST_KEY_UILaunchScreen_Generation = YES; INFOPLIST_KEY_CFBundleDisplayName = JustFit; PRODUCT_BUNDLE_IDENTIFIER = local.justinyang.fitness; PRODUCT_NAME = "$(TARGET_NAME)"; TARGETED_DEVICE_FAMILY = 1; SWIFT_VERSION = 5.0; }; name = Release; };
+	};
+	rootObject = A0000000000000000000000B;
+}
